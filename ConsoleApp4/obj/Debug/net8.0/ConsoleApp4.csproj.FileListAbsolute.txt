@@ -1,0 +1,14 @@
+C:\Users\CASPER\source\repos\ConsoleApp3\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\CASPER\source\repos\ConsoleApp3\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\CASPER\source\repos\ConsoleApp3\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\CASPER\source\repos\ConsoleApp3\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\CASPER\source\repos\ConsoleApp3\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\CASPER\source\repos\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp4.dll

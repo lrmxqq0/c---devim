@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|c:\\users\\casper\\source\\repos\\consoleapp3\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|solutionrelative:calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|c:\\users\\casper\\source\\repos\\consoleapp3\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|solutionrelative:genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|c:\\users\\casper\\source\\repos\\consoleapp3\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|solutionrelative:mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|c:\\users\\casper\\source\\repos\\consoleapp3\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|solutionrelative:stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|c:\\users\\casper\\source\\repos\\consoleapp3\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|solutionrelative:programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|c:\\users\\casper\\source\\repos\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8095D1D3-2A2E-4CED-BCFE-5F7F0649D98E}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Stajyer.cs",
+              "RelativeDocumentMoniker": "Stajyer.cs",
+              "ToolTip": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Stajyer.cs",
+              "RelativeToolTip": "Stajyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:35:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Programci.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Programci.cs",
+              "RelativeDocumentMoniker": "Programci.cs",
+              "ToolTip": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Programci.cs",
+              "RelativeToolTip": "Programci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:33:50.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Mudur.cs",
+              "RelativeDocumentMoniker": "Mudur.cs",
+              "ToolTip": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Mudur.cs",
+              "RelativeToolTip": "Mudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:33:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenelMudur.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\GenelMudur.cs",
+              "RelativeDocumentMoniker": "GenelMudur.cs",
+              "ToolTip": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\GenelMudur.cs",
+              "RelativeToolTip": "GenelMudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:31:59.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Calisan.cs",
+              "RelativeDocumentMoniker": "Calisan.cs",
+              "ToolTip": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Calisan.cs",
+              "RelativeToolTip": "Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:29:36.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CASPER\\source\\repos\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:29:18.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
